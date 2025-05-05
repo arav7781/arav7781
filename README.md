@@ -2,9 +2,9 @@
   <img src="https://raw.githubusercontent.com/arav7781/arav7781/main/a6364a0a-d568-47a5-9fe6-3d4b2eaaaa31.jpg" alt="Arav Saxena" width="200" style="border-radius: 50%;" />
 </p>
 
-<h2 align="center"><strong>AI Enthusiast | Full-Stack Developer | Cybersecurity Aficionado</strong></h2>
+## <p align="center"><strong>AI Enthusiast | Full-Stack Developer | Cybersecurity Aficionado</strong></p>
 
-
+---
 
 ## 🧑‍💻 About Me
 
@@ -19,16 +19,21 @@ I'm **Arav Saxena**, a dedicated B.Tech student in Artificial Intelligence and M
   - Open-source contributor impacting **1,000+ developers**
 - 🌍 **Mission**: To create AI solutions that enhance accessibility, security, and efficiency
 
+---
+
 ## 🛠️ Skills
 
 | **Category**           | **Technologies**                                                                 |
 |-------------------------|----------------------------------------------------------------------------------|
-| **Languages**          | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) |
-| **Frameworks**         | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorFlow&logoColor=white) |
-| **AI & ML**            | Deep Learning, NLP, Computer Vision, LLMs, Generative AI |
-| **Databases**          | MongoDB, PostgreSQL, MySQL, Convex |
-| **DevOps**             | Git, Docker, CI/CD, Vercel |
-| **Tools**              | VS Code, Jupyter, Postman, Git |
+| **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
+| **Frontend**            | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) |
+| **Backend**             | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |
+| **AI & ML**             | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) Deep Learning, NLP, Computer Vision, LLMs, Generative AI |
+| **Databases**           | MongoDB, PostgreSQL, MySQL, Convex |
+| **DevOps**              | Git, Docker, CI/CD, Vercel |
+| **Tools**               | VS Code, Jupyter, Postman |
+
+---
 
 ## 🚀 Featured Projects
 
@@ -52,6 +57,26 @@ I'm **Arav Saxena**, a dedicated B.Tech student in Artificial Intelligence and M
   *Tech Stack*: ReactJS, NextJS, NodeJS, MongoDB, Python  
   [GitHub Repo](#) | [Live Demo](#)
 
+---
+
+## 🏅 Hackathons & Competitions
+
+- **Finalist, SASTRA University Hackathon** (Oct 2024)  
+  Developed an innovative AI-driven solution under tight deadlines.  
+- **Finalist, National AI Hackathon at JSPM** (Aug 2024)  
+  Built a prototype addressing real-world challenges with machine learning.
+
+---
+
+## 📚 Publications
+
+- **Title of Paper 1**, Journal of Machine Learning Research, [Link](#)  
+- **Title of Paper 2**, Journal of Machine Learning Research, [Link](#)  
+
+*Note*: Replace placeholders with actual titles and links where available.
+
+---
+
 ## 🌐 Portfolio
 
 Explore more of my work and connect with me professionally:  
@@ -59,10 +84,14 @@ Explore more of my work and connect with me professionally:
 - 🔗 [**LinkedIn**](https://linkedin.com/in/arav-saxena-a081a428a)  
 - 🔗 [**Medium**](https://medium.com/@aravsaxena)
 
+---
+
 ## 📊 GitHub Stats
 
 ![Arav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arav7781&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arav7781&layout=compact&theme=radical)
+
+---
 
 ## 📫 Contact Me
 
