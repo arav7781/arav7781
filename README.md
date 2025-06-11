@@ -1,6 +1,4 @@
 
-# 🚀 **Arav Saxena** 🌟
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/arav7781/arav7781/main/a6364a0a-d568-47a5-9fe6-3d4b2eaaaa31.jpg" alt="Arav Saxena" width="150" style="border-radius: 50%; box-shadow: 0 6px 15px rgba(0,0,0,0.4);" />
 </p>
