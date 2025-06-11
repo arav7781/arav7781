@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arav7781/arav7781/main/a6364a0a-d568-47a5-9fe6-3d4b2eaaaa31.jpg" alt="Arav Saxena" width="200" style="border-radius: 50%;" />
-</p>
-
-## <p align="center"><strong>AI Enthusiast | Full-Stack Developer | Cybersecurity Aficionado</strong></p>
-
----
 
 # 🚀 **Arav Saxena** 🌟
 
