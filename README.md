@@ -6,101 +6,128 @@
 
 ---
 
-## 🧑‍💻 About Me
+# 🚀 **Arav Saxena** 🌟
 
-I'm **Arav Saxena**, a dedicated B.Tech student in Artificial Intelligence and Machine Learning at Symbiosis Institute of Technology, Pune. My passion lies at the intersection of **AI**, **cybersecurity**, **cryptography**, **computer vision**, and **deep learning**. With a proven track record of developing **7+ AI-powered applications**, training **11+ ML models**, and securing finalist positions in national hackathons, I’m committed to leveraging technology for impactful solutions.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arav7781/arav7781/main/a6364a0a-d568-47a5-9fe6-3d4b2eaaaa31.jpg" alt="Arav Saxena" width="150" style="border-radius: 50%; box-shadow: 0 6px 15px rgba(0,0,0,0.4);" />
+</p>
 
-- 🎓 **Education**: B.Tech in AI & ML (Expected Graduation: May 2027)
-- 💡 **Passions**: Cybersecurity, Cryptography, Computer Vision, Deep Learning
-- 🏆 **Achievements**:
-  - Finalist at SASTRA University Hackathon (Oct 2024)
-  - Finalist at National AI Hackathon at JSPM (Aug 2024)
-  - Published **2 research papers** in Journal of Machine Learning Research
-  - Open-source contributor impacting **1,000+ developers**
-- 🌍 **Mission**: To create AI solutions that enhance accessibility, security, and efficiency
+<p align="center">
+  <b>AI Trailblazer | Full-Stack Maestro | Cybersecurity Ninja</b>
+</p>
 
----
-
-## 🛠️ Skills
-
-| **Category**           | **Technologies**                                                                 |
-|-------------------------|----------------------------------------------------------------------------------|
-| **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
-| **Frontend**            | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) |
-| **Backend**             | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |
-| **AI & ML**             | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) Deep Learning, NLP, Computer Vision, LLMs, Generative AI |
-| **Databases**           | MongoDB, PostgreSQL, MySQL, Convex |
-| **DevOps**              | Git, Docker, CI/CD, Vercel |
-| **Tools**               | VS Code, Jupyter, Postman |
+<p align="center">
+  <a href="https://linkedin.com/in/arav-saxena-a081a428a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/arav7781"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://medium.com/@aravsaxena"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://arav-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF6F00?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+ ## **Who Am I?**
 
-- **ArogyaMitra: AI-Powered Health Assistant** 🩺  
-  A multilingual web app delivering health information via voice interaction to **500+ users**.  
-  *Tech Stack*: ReactJS, NextJS, NodeJS, NLP, MongoDB, TensorFlow  
-  [GitHub Repo](#) | [Live Demo](#)
+Hey, I'm **Arav Saxena**, a B.Tech student in **Artificial Intelligence & Machine Learning** at Symbiosis Institute of Technology, Pune (Class of 2027). I’m a tech enthusiast obsessed with blending **AI**, **computer vision**, **NLP**, and **cybersecurity** to build game-changing solutions. With **7+ AI-powered apps**, **11+ trained ML models**, **2 published papers**, and a knack for crushing hackathons, I’m on a mission to shape the future of tech with innovation and impact! 💥
 
-- **Crypto Algorithm Identifier** 🔒  
-  An ML/DL-based tool to identify cryptographic algorithms for enhanced cybersecurity.  
-  *Tech Stack*: Python, TensorFlow, PyTorch, Flask  
-  [GitHub Repo](#) | [Live Demo](#)
-
-- **Vision Block: AI & Cybersecurity Fusion** 🖼️  
-  Integrates LLMs, computer vision, and cybersecurity for real-time visual data analysis.  
-  *Tech Stack*: Python, OpenCV, TensorFlow, LangChain, FastAPI  
-  [GitHub Repo](#) | [Live Demo](#)
-
-- **Cybersecurity Dashboard** 📊  
-  A real-time dashboard with live camera feeds for monitoring security threats.  
-  *Tech Stack*: ReactJS, NextJS, NodeJS, MongoDB, Python  
-  [GitHub Repo](#) | [Live Demo](#)
+- 🎯 **Mission**: Create smarter, safer, and inclusive tech for global impact.
+- 🏆 **Highlights**:
+  - 🥉 **3rd Place**, Hack Your Path 6.0 National Hackathon (May 2025)
+  - 🏅 **Finalist**, SASTRA University Hackathon (Oct 2024) & JSPM AI Hackathon (Aug 2024)
+  - 📜 **Patent Filed**: ArogyaNext - AI-Powered Health Guidance System (2025)
+  - 💰 **Grant**: ₹10,000 for ArogyaMitra Multimodal Learning (SASTRA University, 2024)
+  - 📚 **2 Research Papers** in ArticleX Journal
+  - 🌍 **Open-Source Impact**: Empowering 1,000+ developers
 
 ---
 
-## 🏅 Hackathons & Competitions
+## 🛠️ **Tech Arsenal**
 
-- **Finalist, SASTRA University Hackathon** (Oct 2024)  
-  Developed an innovative AI-driven solution under tight deadlines.  
-- **Finalist, National AI Hackathon at JSPM** (Aug 2024)  
-  Built a prototype addressing real-world challenges with machine learning.
-
----
-
-## 📚 Publications
-
-- **Title of Paper 1**, Journal of Machine Learning Research, [Link](#)  
-- **Title of Paper 2**, Journal of Machine Learning Research, [Link](#)  
-
-*Note*: Replace placeholders with actual titles and links where available.
+| **Category**       | **Skills**                                                                 |
+|--------------------|---------------------------------------------------------------------------|
+| **Languages**      | 🐍 Python • 🌐 JavaScript • 🔷 TypeScript • ☕ Java • 💻 C/C++ • 🗄️ SQL |
+| **Frontend**       | ⚛️ React.js • 🚀 Next.js                                                  |
+| **Backend**        | 🟢 Node.js • 🐍 Flask • ⚡ FastAPI                                         |
+| **AI & ML**        | 🤖 TensorFlow • 🔥 PyTorch • 🗣️ NLP • 🖼️ Computer Vision • 🧠 LLMs • 🎨 Generative AI • 🔄 Reinforcement Learning |
+| **Databases**      | 🍃 MongoDB • 🐘 PostgreSQL • 🗄️ MySQL • 🔲 Convex • 🔴 Redis             |
+| **DevOps**         | 🐙 Git • 🐳 Docker • 🚀 Vercel • 🤖 GitHub Actions                        |
+| **Tools**          | 💻 VS Code • 📓 Jupyter • 📬 Postman • 📊 Streamlit                       |
 
 ---
 
-## 🌐 Portfolio
+## 🔥 **Featured Projects**
 
-Explore more of my work and connect with me professionally:  
-- 🔗 [**Portfolio Website**](https://arav-portfolio.vercel.app/)  
-- 🔗 [**LinkedIn**](https://linkedin.com/in/arav-saxena-a081a428a)  
-- 🔗 [**Medium**](https://medium.com/@aravsaxena)
+### 🩺 **ArogyaMitra: AI Health Companion**
+Multilingual voice-powered health assistant for 500+ users, delivering medical guidance in native languages.  
+*Tech*: React.js, Next.js, Node.js, NLP, TensorFlow, MongoDB, LangChain, WebSockets  
+[Code](#) | [Demo](#)
+
+### 📚 **GurukulX: Educator’s AI Ally**
+AI platform with coding and data visualization agents to simplify teaching for educators.  
+*Tech*: React.js, Next.js, AgenticAI, NLP, LangChain, Langgraph, ConvexDB, TensorFlow  
+[Code](#) | [Demo](#)
+
+### 📊 **BlueBoxAI: Smart Sales Dashboard**
+Automated SQL query generator for futuristic business intelligence and expense tracking.  
+*Tech*: Python, React.js, Next.js, Node.js, SQL, Chart.js, D3.js, LangChain, WebSockets  
+[Code](#) | [Demo](#)
+
+### 🎓 **ClarvisIntelliTutor: AI Study Buddy**
+Voice-to-voice AI assistant for interview prep and personalized practice questions.  
+*Tech*: Python, Streamlit, NLP, MongoDB, LangChain, Langgraph, TensorFlow, WebSockets  
+[Code](#) | [Demo](#)
+
+### 🖼️ **AgenticCV: No-Code Vision**
+Text-driven platform for seamless computer vision tasks, no coding required.  
+*Tech*: Streamlit, Python, OpenCV, TensorFlow, LangChain, Langgraph  
+[Code](#) | [Demo](#)
+
+### 📝 **BharatiQues: Question Generator**
+AI-powered tool to create question papers from syllabi and lecture videos.  
+*Tech*: Python, Streamlit, NLP, Vision Language Model, VectorDB, LangChain, TensorFlow  
+[Code](#) | [Demo](#)
+
+### 🩺 **VitalSense: Contactless Vitals Monitor**
+Real-time vitals tracking using TwoStreamNetwork and neurokit2 for non-invasive monitoring.  
+*Tech*: Python, React.js, Next.js, Node.js, MongoDB, dlib, MTNN, LangChain, WebSockets  
+[Code](#) | [Demo](#)
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 **Milestones**
 
-![Arav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arav7781&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arav7781&layout=compact&theme=radical)
+- **2025**: 🥉 3rd Place, Hack Your Path 6.0 National Hackathon
+- **2025**: 📜 Published *AgenticCV* paper in ArticleX Journal
+- **2025**: 📜 Filed patent for *ArogyaNext* with USPTO
+- **2024**: 🏅 Finalist, SASTRA University & JSPM National AI Hackathons
+- **2024-Present**: 🌍 Active open-source contributor to AI/ML libraries
+- **2024**: 💰 ₹10,000 grant for ArogyaMitra (SASTRA University)
 
 ---
 
-## 📫 Contact Me
+## 📚 **Publications**
 
-I’m always open to collaboration, feedback, or just a tech chat! Reach out via:  
+- **ArogyaMitra: A Voice-to-Voice Indian Multilingual Medical Assistant**  
+  *ArticleX Journal, 2025* | [Download](#)
+- **AgenticCV: A Text-to-Computer Vision Tasks Framework**  
+  *ArticleX Journal, 2025* | [Download](#)
+
+---
+
+## 📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arav7781&show_icons=true&theme=radical" alt="Arav's GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arav7781&layout=compact&theme=radical" alt="Top Languages" width="300" />
+</p>
+
+---
+
+## 📫 **Let’s Connect**
+
+Ready to collaborate on epic projects or geek out over tech? Reach out!  
 - 📧 **Email**: aravsaxena884@gmail.com  
 - 🔗 **LinkedIn**: [linkedin.com/in/arav-saxena-a081a428a](https://linkedin.com/in/arav-saxena-a081a428a)  
 - 🌐 **Portfolio**: [arav-portfolio.vercel.app](https://arav-portfolio.vercel.app/)  
 - 📱 **Phone**: +91 9653413126
 
----
-
-*"The best way to predict the future is to create it."* – Let’s build something extraordinary together! 💻
+*"The future belongs to those who code it."* – Let’s build something legendary! 💻
