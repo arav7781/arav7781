@@ -47,10 +47,6 @@ Hey, I'm **Arav Saxena**, a B.Tech student in **Artificial Intelligence & Machin
 
 ## 🔥 **Featured Projects**
 
-### 🩺 **ArogyaMitra: AI Health Companion**
-Multilingual voice-powered health assistant for 500+ users, delivering medical guidance in native languages.  
-*Tech*: React.js, Next.js, Node.js, NLP, TensorFlow, MongoDB, LangChain, WebSockets  
-[Code](#) | [Demo](#)
 
 ### 📚 **GurukulX: Educator’s AI Ally**
 AI platform with coding and data visualization agents to simplify teaching for educators.  
