@@ -92,10 +92,8 @@ Real-time vitals tracking using TwoStreamNetwork and neurokit2 for non-invasive 
 
 ## 📚 **Publications**
 
-- **ArogyaMitra: A Voice-to-Voice Indian Multilingual Medical Assistant**  
-  *ArticleX Journal, 2025* | [Download](#)
 - **AgenticCV: A Text-to-Computer Vision Tasks Framework**  
-  *ArticleX Journal, 2025* | [Download](#)
+  *MethodX Journal, 2025* | [Download](#)
 
 ---
 
