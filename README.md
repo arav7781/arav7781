@@ -24,9 +24,8 @@ Hey, I'm **Arav Saxena**, a B.Tech student in **Artificial Intelligence & Machin
 - 🏆 **Highlights**:
   - 🥉 **3rd Place**, Hack Your Path 6.0 National Hackathon (May 2025)
   - 🏅 **Finalist**, SASTRA University Hackathon (Oct 2024) & JSPM AI Hackathon (Aug 2024)
-  - 📜 **Patent Filed**: ArogyaNext - AI-Powered Health Guidance System (2025)
   - 💰 **Grant**: ₹10,000 for ArogyaMitra Multimodal Learning (SASTRA University, 2024)
-  - 📚 **2 Research Papers** in ArticleX Journal
+  - 📚 **1 Research Papers** in MethodX Journal
   - 🌍 **Open-Source Impact**: Empowering 1,000+ developers
 
 ---
