@@ -3,7 +3,7 @@
 I'm passionate about building innovative AI-driven solutions, specializing in voice AI agents, model quantization, and scalable enterprise applications. With expertise in machine learning, computer vision, and full-stack development, I’ve developed 9+ impactful projects in healthcare, education, and recruitment, finetuning 11+ LLMs for optimized performance. I’m a published researcher in MethodX Journal and a 3rd-place winner in national hackathons like AG Patil 2025 and Hack Your Path 6.0 2025.
 
 ---
-![Snake animation](https://raw.githubusercontent.com/arav7781/arav7781output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/arav7781/arav7781/output/snake.svg)
 
 ## 🛠️ Technical Skills
 
