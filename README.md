@@ -43,18 +43,6 @@ A passionate **AI Researcher**, **Full-Stack Developer**, **ML Engineer**, and *
 | C | Expert | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat) |
 | SQL | Advanced | ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat) |
 
-### Frameworks
-| Skill | Proficiency | Logo |
-|-------|-------------|------|
-| React.js | Expert | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) |
-| Next.js | Advanced | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat) |
-| TensorFlow | Expert | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat) |
-| PyTorch | Advanced | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat) |
-| Flask | Advanced | ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat) |
-| FastAPI | Advanced | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat) |
-| LangChain | Intermediate | ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=langchain&logoColor=white&style=flat) |
-| Langgraph | Advanced | ![Langgraph](https://img.shields.io/badge/-Langgraph-4B0082?logo=graphql&logoColor=white&style=flat) |
-
 ### AI & ML
 | Skill | Proficiency | Logo |
 |-------|-------------|------|
@@ -67,6 +55,20 @@ A passionate **AI Researcher**, **Full-Stack Developer**, **ML Engineer**, and *
 | Data Analysis | Expert | ![Data Analysis](https://img.shields.io/badge/-Data_Analysis-007ACC?logo=jupyter&logoColor=white&style=flat) |
 | Google's A2A Protocol | Expert | ![Google's A2A Protocol](https://img.shields.io/badge/-A2A_Protocol-4285F4?logo=google&logoColor=white&style=flat) |
 | MCP Protocol | Expert | ![MCP Protocol](https://img.shields.io/badge/-MCP_Protocol-3C3C3C?logo=protocol&logoColor=white&style=flat) |
+
+### Frameworks
+| Skill | Proficiency | Logo |
+|-------|-------------|------|
+| React.js | Expert | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) |
+| Next.js | Advanced | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat) |
+| TensorFlow | Expert | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat) |
+| PyTorch | Advanced | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat) |
+| Flask | Advanced | ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat) |
+| FastAPI | Advanced | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat) |
+| LangChain | Intermediate | ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=langchain&logoColor=white&style=flat) |
+| Langgraph | Advanced | ![Langgraph](https://img.shields.io/badge/-Langgraph-4B0082?logo=graphql&logoColor=white&style=flat) |
+
+
 
 ### Databases
 | Skill | Proficiency | Logo |
