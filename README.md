@@ -1,12 +1,14 @@
 
 
-
-# 🚀 Arav Saxena | AI & ML Innovator
-
-![Doge Meme](https://github.com/arav7781/arav7781/blob/main/dog-love-cool-doge.gif?raw=true)
+<h1 align="center">
+  🚀 Arav Saxena | AI & ML Innovator
+  <img src="https://github.com/arav7781/arav7781/blob/main/dog-love-cool-doge.gif?raw=true" width="50" />
+</h1>
 
 👋 **Hi, I'm Arav Saxena!**  
-A passionate **AI Researcher**, **Full-Stack Developer**, **ML Engineer**, and **Problem Solver** at *Symbiosis Institute of Technology*. Building the future with AI, code, and creativity.
+A passionate **AI Researcher**, **Full-Stack Developer**, **ML Engineer**, and **Problem Solver** at *Symbiosis Institute of Technology*.  
+Building the future with AI, code, and creativity.
+
 
 ---
 
