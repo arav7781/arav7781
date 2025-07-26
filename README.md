@@ -110,4 +110,4 @@ A passionate **AI Researcher**, **Full-Stack Developer**, **ML Engineer**, and *
 
 ---
 
-![Doge Meme](https://media.giphy.com/media/3o6Zta2kUo3p6gL4I/giphy.gif)
+![Doge Meme](https://github.com/arav7781/arav7781/blob/main/doge.gif?raw=true)
