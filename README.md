@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  🚀 Arav Saxena | AI & ML Innovator
+   Arav Saxena | AI & ML Innovator
   <img src="https://github.com/arav7781/arav7781/blob/main/dog-love-cool-doge.gif?raw=true" width="50" />
 </h1>
 
