@@ -102,19 +102,17 @@ Building the future with AI, code, and creativity.
 
 ---
 
-<h2>
-  📬 Let's Connect! 
-<!--   <img src="https://github.com/arav7781/arav7781/blob/main/doge.gif?raw=true" width="50" /> -->
-</h2>
-
+## 📬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/aravsaxena)  
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:aravsaxena884@gmail.com)  
-📍 Pune, India | ☎️ +91 9653413126 
-
+📍 Pune, India | ☎️ +91 9653413126
 
 > 💡 **Open to collabs, hackathons, and innovative projects!**  
 > Check out my [Resume](https://aravsaxena.com/resume) or dive into my [Portfolio](https://aravsaxena.com)!
-> <img src="https://github.com/arav7781/arav7781/blob/main/doge.gif?raw=true" width="40" style="vertical-align:middle;" />
+
+---
+
+![Doge Meme](https://media.giphy.com/media/3o6Zta2kUo3p6gL4I/giphy.gif)
 
 ---
 
