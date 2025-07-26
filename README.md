@@ -3,7 +3,7 @@
 
 # 🚀 Arav Saxena | AI & ML Innovator
 
-![Doge Meme](https://tenor.com/en-GB/view/doge-gif-21983043)
+![Doge Meme](https://media.gifdb.com/dancing-doge-meme-b8xex8bibl1bu0i1.gif)
 
 👋 **Hi, I'm Arav Saxena!**  
 A passionate **AI Researcher**, **Full-Stack Developer**, **ML Engineer**, and **Problem Solver** at *Symbiosis Institute of Technology*. Building the future with AI, code, and creativity.
