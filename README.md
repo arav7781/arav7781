@@ -111,10 +111,10 @@ Building the future with AI, code, and creativity.
 
 > 💡 **Open to collabs, hackathons, and innovative projects!**  
 > Check out my [Resume](https://aravsaxena.com/resume) or dive into my [Portfolio](https://aravsaxena.com)!
-
----
-
 ![Doge Meme](https://github.com/arav7781/arav7781/blob/main/doge.gif?raw=true)
-
 ---
+
+
+
+
 
