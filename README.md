@@ -112,7 +112,7 @@ Building the future with AI, code, and creativity.
 
 ---
 
-![Doge Meme](https://github.com/arav7781/arav7781/blob/main/doge.gif?raw=true)
+![Doge Meme](https://github.com/arav7781/arav7781/blob/main/cool-doge-cool-dog%20(1).gif?raw=true)
 
 ---
 
