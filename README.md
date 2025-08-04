@@ -109,7 +109,7 @@ Building the future with AI, code, and creativity.
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:aravsaxena884@gmail.com)  
 📍 Pune, India | ☎️ +91 9653413126
 
-> 💡 **Open to collabs, hackathons, and innovative projects!**  
+> 💡 **Open to collab, hackathons, and innovative projects!**  
 > Check out my [Resume](https://aravsaxena.com/resume) or dive into my [Portfolio](https://aravsaxena.com)!
 
 ---
