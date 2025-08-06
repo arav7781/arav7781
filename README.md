@@ -26,7 +26,7 @@ Building the future with AI, code, and creativity.
 - **[GurukulX](https://github.com/aravsaxena/gurukulx)**: AI-powered platform for educators with coding and visualization agents.  
 - **[BlueBoxAI](https://github.com/aravsaxena/blueboxai)**: Automated SQL query generator for futuristic sales dashboards.  
 - **[AgenticCV](https://github.com/aravsaxena/agenticcv)**: Text-to-computer vision tasks with no-code simplicity.  
-- **[ClarvisIntelliTutor](https://github.com/aravsaxena/clarvisintellitutor)**: AI study assistant for interview prep via voice interaction.  
+- **[ClarvisIntelliTutor](https://github.com/arav7781/clarvisintellitutor)**: AI study assistant for interview prep via voice interaction.  
 - **[BharatiQues](https://github.com/aravsaxena/bharatiques)**: AI-driven question paper generator from syllabus and videos.  
 - **[VitalSense](https://github.com/aravsaxena/vitalsense)**: Contactless vitals monitoring using TwoStreamNetwork.
 
