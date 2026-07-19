@@ -14,6 +14,12 @@
   <img src="https://img.shields.io/badge/Location-Pune%2C%20India-red?style=for-the-badge" alt="Pune"/>
 </p>
 
+<video src="https://github.com/arav7781/arav7781/raw/main/2026-07-19_21%3A35%3A02_video.mp4" controls width="100%" height="auto">
+  Your browser does not support the video tag.
+</video>
+
+> *Watch the full interactive portfolio experience with AI assistant in action*
+
 <p align="center">
   <strong>Building Scalable Systems • Intelligent Applications • Agentic AI</strong>
 </p>
