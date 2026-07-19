@@ -13,7 +13,6 @@
 </p>
 
 <p align="center">
-  <b>👆 Click the GIF to view it in full size.</b>
 </p>
 
 ---
